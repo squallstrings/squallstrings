@@ -59,15 +59,6 @@ A moving-target defense runtime for indirect control flow that reduces the relia
 The goal is not to prevent cheating outright, but to increase attacker cost and detection surface by expiring static exploitation assumptions at runtime.
 
 
-# 📊 GitHub Stats
-
-<div align="center">
-  
-![Jad's GitHub stats](https://github-readme-stats.vercel.app/api?username=squallstrings&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squallstrings&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-</div>
 
 
 ## 🎮 Beyond the Terminal
