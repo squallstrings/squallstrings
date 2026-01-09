@@ -21,7 +21,7 @@
 
 ```
 
--🚧 **Currently working on:** Boogie Woogie — runtime dispatch virtualization with periodic pointer re-keying and verification.
+- 🚧 **Currently working on:** Boogie Woogie — runtime dispatch virtualization with periodic pointer re-keying and verification.
 - **Learning:** Advanced reverse engineering & kernel-level security
 - **Certifications:** Planning Security+ and beyond
 - **Setup:** Win11 (main) | Arch + Hyprland (laptop)
@@ -59,15 +59,16 @@ A moving-target defense runtime for indirect control flow that reduces the relia
 The goal is not to prevent cheating outright, but to increase attacker cost and detection surface by expiring static exploitation assumptions at runtime.
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   
-![Jad's GitHub stats](https://github-readme-stats.vercel.app/api?username=squallstrings&show_icons=true&theme=tokyonight&hide_border=true)
+![Jad's GitHub stats](https://github-readme-stats.vercel.app/api?username=squallstrings&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squallstrings&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=squallstrings&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
+
 
 ## 🎮 Beyond the Terminal
 
